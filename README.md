@@ -56,7 +56,13 @@ This paper evaluates the characteristics and performance of these four averages 
 
 TODO
 
+# Citation: #
 
+If you find this code useful in your research, please cite: 
+
+      Finding the subspace mean or median to fit your need.
+      T. Marrinan, J. R. Beveridge, B. Draper, M. Kirby, and C. Peterson.
+      Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), (2014): 1082-1089.
 
 # Contact #
 
